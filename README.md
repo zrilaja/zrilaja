@@ -17,7 +17,7 @@
 - 😄 Pronouns: he/him
 ```
 
-### 🌏 Connect With Me
+### 🌏 Contact Me
 
 <a href="https://www.instagram.com/jirryl"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
@@ -37,12 +37,12 @@
 <a href="https://www.facebook.com/profile.php?=100087370156118"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
-<a  href="https://www.linkedin.com/company/hi-coders/">
+<!---<a  href="https://www.linkedin.com/company/hi-coders/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <a href="https://codepen.io/jirryl"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
-</a>
+</a>---!>
 <br />
 
 [medium]: https://medium.com/
