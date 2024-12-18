@@ -1,9 +1,9 @@
 ### 👨‍💻 About Me
 
-<img align="right" height="175" src="https://img100.pixhost.to/images/918/543484393_jirryl.jpg"  />
+<img align="center" height="175" src="https://img100.pixhost.to/images/918/543484393_jirryl.jpg"  />
 
 
-<div align="centre">
+<div align="left">
   
 </div>
 
