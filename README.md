@@ -4,18 +4,17 @@
 
 
 <div align="centre">
-
-- 🔭 I’m currently pursuing my Master's degree in Computer Science
-- 😄 Pronouns: he/him
   
 </div>
 
-### 💓 Introduction
 ```
 "Name": "Jirryl",
 "Status": "Playing,Learning,Helping",
 "Country": "Indonesia",
 "Birthday": "November - 24"
+
+- 🔭 I’m currently pursuing my Master's degree in Computer Science
+- 😄 Pronouns: he/him
 ```
 
 ### 📉 My Stats
