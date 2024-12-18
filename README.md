@@ -3,7 +3,7 @@
 <img align="right" height="175" src="https://img100.pixhost.to/images/918/543484393_jirryl.jpg"  />
 
 
-<div align="left">
+<div align="centre">
 
 - 🔭 I’m currently pursuing my Master's degree in Computer Science
 - 🌱 I’m currently learning Crypto and Network Security, Heuristic Problem Solving and Database Systems.
