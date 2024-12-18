@@ -17,14 +17,6 @@
 - 😄 Pronouns: he/him
 ```
 
-### 📉 My Stats
-
-![Fahri Github Statistic](https://github-readme-stats.vercel.app/api?username=zrilaja&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=zrilaja&layout=compact&theme=highcontrast)
-
-### 📈 My Contribution Graph
-![Snake Contribution Animation](https://raw.githubusercontent.com/adeeteya/adeeteya/output/snake.svg)
-
 ### 🌏 Connect With Me
 
 <a href="https://www.instagram.com/jirryl"> 
