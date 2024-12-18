@@ -6,28 +6,16 @@
 <div align="centre">
 
 - 🔭 I’m currently pursuing my Master's degree in Computer Science
-- 🌱 I’m currently learning Crypto and Network Security, Heuristic Problem Solving and Database Systems.
-- 🤔 I’m looking for help with UI/UX
-- 💬 Ask me about Web Development (React, Html and CSS)
-- 📫 How to reach me: myzriel24@gmail.com
 - 😄 Pronouns: he/him
   
 </div>
 
 ### 💓 Introduction
 ```
-Intro =
-
 "Name": "Jirryl",
 "Status": "Playing,Learning,Helping",
 "Country": "Indonesia",
 "Birthday": "November - 24"
-   
-  "Big Thanks To"
-   "- Allah SWT"
-   "- All Helpers"
-   "- The Last Generation"
-   "- And My Friends"
 ```
 
 ### 📉 My Stats
@@ -80,5 +68,3 @@ Intro =
 [repo]: https://github.com/lorenzxz?tab=repositories
 
 <hr />
-
-<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="Lorenzxz">
