@@ -2,6 +2,7 @@
 
 <img align="right" height="175" src="https://img100.pixhost.to/images/918/543484393_jirryl.jpg"  />
 
+
 <div align="left">
 
 - 🔭 I’m currently pursuing my Master's degree in Computer Science
