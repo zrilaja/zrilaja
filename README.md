@@ -14,7 +14,7 @@
 "Birthday": "November - 24"
 
 - 🔭 I’m currently pursuing my Master's degree in Computer Science
-- 😄 Pronouns: he/him
+- 😄 I'm sorry i can't be perfect
 ```
 
 ### 🌏 Contact Me
