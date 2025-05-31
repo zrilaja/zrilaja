@@ -19,7 +19,7 @@
 
 ### 🌏 Contact Me
 
-<a href="https://www.instagram.com/jirryl"> 
+<a href="https://www.instagram.com/jirryll"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 <!---<a href="https://www.youtube.com/@jirryl"> 
