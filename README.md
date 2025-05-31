@@ -34,7 +34,7 @@
 <!--<a href="https://twitter.com/jirryl"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>-->
-<a href="https://www.facebook.com/profile.php?=100087370156118"> 
+<!---<a href="https://www.facebook.com/profile.php?=100087370156118"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
 <!---<a  href="https://www.linkedin.com/company/hi-coders/">
