@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://img100.pixhost.to/images/918/543484393_jirryl.jpg" width="250" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,0,0,0.5);" />
 
-  <h1 align="center">Hi there, I'm Jirryl! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1 align="center">Hi there, I'm Kujeal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Master's+Student+in+Computer+Science;Full+Time+Learner;Tech+Enthusiast;Based+in+Indonesia" alt="Typing SVG" />
@@ -13,30 +13,23 @@
 ### 👨‍💻 About Me
 
 ```javascript
-const jirryl = {
-    name: "Jirryl",
+const me = {
+    name: "Kujeal",
     roles: ["Student", "Developer", "Learner"],
     location: "Indonesia 🇮🇩",
     birthday: "November 24",
-    education: "Master's Degree in Computer Science",
+    education: "Beginner Degree in Computer Science",
     hobbies: ["Playing", "Learning", "Helping"],
     currentFocus: "Striving for progress, not perfection"
 };
 ```
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zrilaja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Jirryl's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrilaja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
-</div>
 
 <br/>
 
 ### 🌏 Contact Me
 
 <div align="center">
-    <a href="https://www.instagram.com/jirryll">
+    <a href="https://www.instagram.com/kujeall">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram"/>
     </a>
     <a href="mailto:myzriel24@gmail.com">
